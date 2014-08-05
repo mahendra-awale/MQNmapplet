@@ -1,7 +1,4 @@
-MQNmapplet
-==========
-
-Visualization of Chemical Space
+MQNmapplet:-Visualization of Chemical Space
 
 ================================================================
 

@@ -14,7 +14,7 @@ ZINC=     13.5 Millions commercially availaible compounds (http://zinc.docking.o
 PubChem=  Public database of small molecule (https://pubchem.ncbi.nlm.nih.gov/)
 GDB-13=   All possible molecules upto heavy atom count of 13(http://reymond.dcb.unibe.ch/)
 
-For each of the database only average molecule file is provided, while access to the rest of molecules is enabled by "show bin option" whihc retrived the data from our in-house server.
+For each of the database only average molecule file is provided, while access to the rest of molecules is enabled by "show bin option" which retrived the data from our in-house server.
 
 For further details please contact us and we will be happy to help you out!
 ######################################################

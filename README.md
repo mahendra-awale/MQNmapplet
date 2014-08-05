@@ -3,7 +3,8 @@ MQNmapplet
 
 Visualization of Chemical Space
 
-A================================================================A
+================================================================
+
 The MQNmapplet is a Java application giving access to the structure of small molecules in large databases via color-coded maps of their chemical space. These maps are projections from a 42-dimensional property space defined by 42 integer value descriptors called molecular quantum numbers (MQN), which count different categories of atoms, bonds, polar groups, and topological features and categorize molecules by size, rigidity, and polarity. Despite its simplicity, MQN-space is relevant to biological activities. The MQN-mapplet allows localization of any molecule on the color-coded images, visualization of the molecules, and identification of analogs as neighbors on the MQN-map or in the original 42-dimensional MQN-space. No query molecule is necessary to start the exploration, which may be particularly attractive for nonchemists. To our knowledge, this type of interactive exploration tool is unprecedented for very large databases such as PubChem and GDB-13 (almost one billion molecules). The application is freely available for download at www.gdb.unibe.ch.
 
 =================================================================
